@@ -1,0 +1,107 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: url("https://images.unsplash.com/photo-1616917211930-a67b2e9ef94f?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDJ8fGZsb3xlbnwwfHx8fDE2OTA3MzY1ODd8MA&ixlib=rb-4.0.3&w=1500");
+}
+.home-text {
+  color: #101210;
+  width: 307px;
+  height: 60px;
+  font-size: 35px;
+  align-self: center;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  text-decoration: underline;
+}
+.home-text01 {
+  align-self: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+}
+.home-text03 {
+  font-size: 20px;
+}
+.home-text04 {
+  font-size: 20px;
+}
+.home-text05 {
+  font-size: 20px;
+}
+.home-text06 {
+  font-size: 20px;
+}
+.home-text07 {
+  font-size: 20px;
+}
+.home-text08 {
+  font-size: 20px;
+}
+.home-link {
+  display: contents;
+}
+.home-icon {
+  width: var(--dl-size-size-large);
+  height: var(--dl-size-size-medium);
+  margin-left: var(--dl-space-space-sixunits);
+  text-decoration: none;
+}
+.home-text10 {
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-threeunits);
+}
+.home-text13 {
+  font-size: 20px;
+}
+.home-text14 {
+  font-size: 20px;
+}
+.home-text15 {
+  font-size: 20px;
+}
+.home-text17 {
+  align-self: flex-start;
+  padding-top: var(--dl-space-space-threeunits);
+  padding-bottom: 0px;
+}
+.home-link1 {
+  display: contents;
+}
+.home-icon2 {
+  width: var(--dl-size-size-large);
+  height: var(--dl-size-size-medium);
+  align-self: flex-start;
+  margin-left: var(--dl-space-space-fiveunits);
+  text-decoration: none;
+}
+.home-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: Medium;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-link2 {
+  display: contents;
+}
+.home-icon4 {
+  width: var(--dl-size-size-large);
+  height: var(--dl-size-size-medium);
+  margin-left: var(--dl-space-space-fiveunits);
+  text-decoration: none;
+}
+.home-link3 {
+  display: contents;
+}
+.home-icon6 {
+  width: var(--dl-size-size-large);
+  height: var(--dl-size-size-medium);
+  margin-left: var(--dl-space-space-fiveunits);
+  text-decoration: none;
+}
